@@ -19,12 +19,16 @@ const { json } = require('body-parser');
 const app = express();
 app.use(enforce.HTTPS({trustProtoHeader: true}));
 
-
 app.use(bodyParser.urlencoded({
   extended: true
-}));
+ }));
+
 
 app.set('view engine', 'ejs');
+
+
+
+
 
 app.use(express.static("public"));
 
