@@ -85,9 +85,6 @@ app.get("/failure", function(req,res){
   res.render("failure")
 });
 
-app.listen(3000, function() {
-  console.log("Server started on port 3000");
-});
 //Mailchimp.com
 // Then go to your account 
 // After that it should be the word Extras  under the work tap
