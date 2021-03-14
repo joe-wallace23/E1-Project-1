@@ -1,0 +1,9 @@
+.rowimage{
+    padding-top: 3rem;
+    & img{
+        width: 100%;
+    }
+}
+.rowimage .col-lg-2{
+    margin-bottom: 1rem;
+}

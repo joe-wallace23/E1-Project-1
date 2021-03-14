@@ -1,0 +1,290 @@
+.marketing{
+    padding: 4rem 0;
+    background-image: url(/images/marketing-bg.png);
+    background-position: top 35% right;
+    background-repeat: no-repeat;
+
+    &__content h3{
+        color: #a0a0a0;
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+    }
+    &__content h2{
+        color: #394257;
+        font-size: 2.4rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__description{
+        font-size: 1rem;
+        color: #a0a0a0;
+        margin-bottom: 2rem;
+    }
+    &__read{
+        font-size: 1.2rem;
+        color:#fff;
+        background-color: var(--hover-link);
+        padding: .7rem 1.3rem;
+        border-radius: 2rem;
+       
+    }
+    &__feature{
+        margin-top: 3rem;
+        font-size: .8rem;
+        text-transform: uppercase;
+        color: #394257;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__list{
+        color: #a0a0a0;
+        font-size: .8rem;
+    }
+    &__link{
+       color: #a0a0a0;
+       font-size: .8rem;
+       &:hover{
+        color: #a0a0a0;
+        text-decoration: none;
+       }
+    }
+    &__images img{
+        width: 100%;
+    }
+}
+
+.marketing2{
+    padding: 4rem 0;
+    background-image: url(/images/automationbg.png);
+    background-position: top 35% left;
+    background-repeat: no-repeat;
+
+    &__content h3{
+        color: #a0a0a0;
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+    }
+    &__content h2{
+        color: #394257;
+        font-size: 2.4rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__description{
+        font-size: 1rem;
+        color: #a0a0a0;
+        margin-bottom: 2rem;
+    }
+    &__read{
+        font-size: 1.2rem;
+        color:#fff;
+        background-color: var(--hover-link);
+        padding: .7rem 1.3rem;
+        border-radius: 2rem;
+       
+    }
+    &__feature{
+        margin-top: 3rem;
+        font-size: .8rem;
+        text-transform: uppercase;
+        color: #394257;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__list{
+        color: #a0a0a0;
+        font-size: .8rem;
+    }
+    &__link{
+       color: #a0a0a0;
+       font-size: .8rem;
+       &:hover{
+        color: #a0a0a0;
+        text-decoration: none;
+       }
+    }
+    &__images img{
+        width: 100%;
+    }
+}
+
+.marketing3{
+    padding: 4rem 0;
+    background-image: url(/images/personalizationbg.png);
+    background-position: top 35% right;
+    background-repeat: no-repeat;
+
+    &__content h3{
+        color: #a0a0a0;
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+    }
+    &__content h2{
+        color: #394257;
+        font-size: 2.4rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__description{
+        font-size: 1rem;
+        color: #a0a0a0;
+        margin-bottom: 2rem;
+    }
+    &__read{
+        font-size: 1.2rem;
+        color:#fff;
+        background-color: var(--hover-link);
+        padding: .7rem 1.3rem;
+        border-radius: 2rem;
+       
+    }
+    &__feature{
+        margin-top: 3rem;
+        font-size: .8rem;
+        text-transform: uppercase;
+        color: #394257;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__list{
+        color: #a0a0a0;
+        font-size: .8rem;
+    }
+    &__link{
+       color: #a0a0a0;
+       font-size: .8rem;
+       &:hover{
+        color: #a0a0a0;
+        text-decoration: none;
+       }
+    }
+    &__images img{
+        width: 100%;
+    }
+}
+
+.marketing4{
+    padding: 4rem 0;
+    background-image: url(/images/landingBG.png);
+    background-position: top 35% left;
+    background-repeat: no-repeat;
+
+    &__content h3{
+        color: #a0a0a0;
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+    }
+    &__content h2{
+        color: #394257;
+        font-size: 2.4rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__description{
+        font-size: 1rem;
+        color: #a0a0a0;
+        margin-bottom: 2rem;
+    }
+    &__read{
+        font-size: 1.2rem;
+        color:#fff;
+        background-color: var(--hover-link);
+        padding: .7rem 1.3rem;
+        border-radius: 2rem;
+       &:hover{
+        color:#fff;
+        text-decoration: none;
+       }
+       
+    }
+    &__feature{
+        margin-top: 3rem;
+        font-size: .8rem;
+        text-transform: uppercase;
+        color: #394257;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__list{
+        color: #a0a0a0;
+        font-size: .8rem;
+    }
+    &__link{
+       color: #a0a0a0;
+       font-size: .8rem;
+       &:hover{
+        color: #a0a0a0;
+        text-decoration: none;
+       }
+    }
+    &__images img{
+        width: 100%;
+    }
+}
+
+.marketing5{
+    padding: 4rem 0;
+    background-image: url(/images/formBG.png);
+    background-position: top 35% right;
+    background-repeat: no-repeat;
+
+    &__content h3{
+        color: #a0a0a0;
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+    }
+    &__content h2{
+        color: #394257;
+        font-size: 2.4rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__description{
+        font-size: 1rem;
+        color: #a0a0a0;
+        margin-bottom: 2rem;
+    }
+    &__read{
+        font-size: 1.2rem;
+        color:#fff;
+        background-color: var(--hover-link);
+        padding: .7rem 1.3rem;
+        border-radius: 2rem;
+       &:hover{
+        color:#fff;
+        text-decoration: none;
+       }
+       
+    }
+    &__feature{
+        margin-top: 3rem;
+        font-size: .8rem;
+        text-transform: uppercase;
+        color: #394257;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    &__list{
+        color: #a0a0a0;
+        font-size: .8rem;
+    }
+    &__link{
+       color: #a0a0a0;
+       font-size: .8rem;
+       &:hover{
+        color: #a0a0a0;
+        text-decoration: none;
+       }
+    }
+    &__images img{
+        width: 100%;
+    }
+}
+
+.marketing .col-lg-6{
+    margin-bottom: 1rem;
+}
+.marketing__read:hover{
+    color: #fff;
+    text-decoration: none;
+}

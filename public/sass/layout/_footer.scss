@@ -1,0 +1,71 @@
+.gods{
+    padding-top: 5rem;
+    position: relative;
+
+    &__images img{
+        width: 100%;
+    }
+    & h2{
+        font-size: 1.2rem;
+        font-weight: 600;
+        margin-bottom: 2rem;
+    }
+    &__list{
+        list-style: none;
+    }
+    &__item:not(:last-child){
+     padding: .3rem 0;
+    }
+    &__link{
+        font-size: 1rem;
+        color: #545c6e;
+
+        &:hover{
+            color: var(--hover-link);
+            text-decoration: none;
+        }
+    }
+    &__socailL{
+        list-style: none;
+    }
+    &__icon{
+        width: 3rem;
+        height: 3rem;
+        fill: var(--hover-link);
+        border: .1rem solid var(--hover-link);
+        padding: .5rem;
+        border-radius: 5rem; 
+    }
+    &__socailItem{
+       display: inline-block;
+       
+    }
+  &__bottomInfo{
+      font-size: .9rem;
+      color: #545c6e;
+  }
+  &__bottomlist{
+      list-style: none;
+  }
+  &__bottomItem{
+    display: inline-block;
+}
+&__bottomItem:not(:last-child){
+    margin-right: .7rem;
+}
+&__bottomlink{
+    font-size: .8rem;
+    color: #545c6e;
+    &:hover{
+        color: var(--hover-link);
+        text-decoration: none;
+    }
+}
+   
+}
+.gods .col-lg-2{
+    margin-bottom: 1rem;
+}
+.gods .col-lg-6{
+    margin-bottom: 1rem;
+}
